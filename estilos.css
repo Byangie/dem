@@ -1,0 +1,61 @@
+h3 {
+    color: rgb(60, 243, 60);
+}
+
+#myh4{
+    font-size: 20px;
+    color: antiquewhite;
+}
+
+a[href="https://comunidad.retorn.com/alimentacion-gatos/como-cuidar-de-mi-gatito-recien-nacido/"]{
+    color: blue;
+}
+
+a{
+    color: aqua !important;
+}
+.negrita{
+    font-weight: bold;
+}
+.fuente-roja{
+        color: brown;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.fuente-azul{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.miTabla > thead > tr > th {
+    font-weight: bold;
+}
+
+.miTabla > tbody > tr > td {
+    color: blueviolet;
+}
+
+.myDiv{
+   /*padding: 20px ; 
+   padding-left: 20px;
+   padding-top: 20px;
+   padding-right: 20px;
+   padding-bottom: 20px; */
+   padding: 20px 15px 20px 15px;
+   border-left: solid 2px blue;
+   border-right: solid 2px blue;
+   margin: 20px 20px 20px 20px;
+   width: 250px;
+   height: auto;
+}
+
+.divConFondo{
+    margin: 10px 0px 10px 0px;
+    height: 300px;
+    width: 300px;
+    background: url(./imagenes/gatito.jpeg);
+    background-size: cover;
+    background-position:center ;
+}
